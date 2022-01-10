@@ -52,3 +52,8 @@ This project template is a starting point for anyone wanting to build a static s
 - The structure exists, but there is no longer a sample post
 - It works just like normal jekyll
 - You'll probably want to add a `post.html` template
+
+## Thanks to
+
+- [taylorbryant/jekyll-starter-tailwind](https://github.com/taylorbryant/jekyll-starter-tailwind) for the inspiration and original Jekyll Tailwind starter project I had been using.
+- [Setting up Webpack for Jekyll](https://blog.mnishiguchi.com/setting-up-webpack-for-jekyll?) from Masatoshi Nishiguchi which helped me get just enough of a webpack config file going.
