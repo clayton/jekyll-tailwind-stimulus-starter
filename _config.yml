@@ -19,6 +19,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - README.md
   - node_modules
   - _webpack
   - tailwind.config.js

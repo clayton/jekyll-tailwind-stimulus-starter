@@ -1,0 +1,3 @@
+[build]
+  command = "JEKYLL_ENV=production yarn build"
+  publish = "_site/"
