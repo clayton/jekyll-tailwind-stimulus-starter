@@ -1,6 +1,8 @@
 # Jekyll + Tailwind + Stimulus Starter
 
-This project template is a starting point for anyone wanting to build a static site using Jekyll, TailwindCSS, and StimulusJS.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3a75c76-2ca8-4798-bf38-3110eca9030f/deploy-status)](https://app.netlify.com/sites/jekyll-tailwind-stimulus-starter/deploys)
+
+This project template is a starting point for anyone wanting to build a static site using Jekyll, TailwindCSS, and StimulusJS. See a preview of the deployed [jekyll + tailwind + stimulus starter](https://jekyll-tailwind-stimulus-starter.netlify.app).
 
 ## Goals
 
