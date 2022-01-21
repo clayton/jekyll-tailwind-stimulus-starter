@@ -22,7 +22,7 @@
   },
   "scripts": {
     "develop": "bundle exec jekyll clean && run-p develop:{webpack,jekyll}",
-    "develop:jekyll": "bundle exec jekyll build --incremental --watch",
+    "develop:jekyll": "bundle exec jekyll build --incremental --watch --config _config.yml,_config.dev.yml",
     "develop:webpack": "webpack --mode development --watch",
     "build": "run-s build:webpack build:jekyll",
     "build:jekyll": "JEKYLL_ENV=production bundle exec jekyll build",

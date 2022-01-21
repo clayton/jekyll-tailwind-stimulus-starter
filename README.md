@@ -41,6 +41,7 @@ This project template is a starting point for anyone wanting to build a static s
    1. A header that includes the JS and CSS bundles
    2. A `default.html` layout that renders page content
 5. Browser-sync for easier local development
+6. Separate `_config.dev.yml` for development specific site configuration.
 
 ## How to add new pages
 
