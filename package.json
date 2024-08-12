@@ -4,7 +4,7 @@
     "@babel/preset-env": "^7.16.7",
     "autoprefixer": "^10.4.2",
     "babel-loader": "^8.2.3",
-    "browser-sync": "^2.27.7",
+    "browser-sync": "^3.0.2",
     "browser-sync-webpack-plugin": "^2.3.0",
     "css-loader": "^6.5.1",
     "cssnano": "^5.0.15",
