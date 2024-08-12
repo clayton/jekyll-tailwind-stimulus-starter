@@ -18,14 +18,14 @@ This project template is a starting point for anyone wanting to build a static s
    3. Clone your repo locally.
 2. Install dependencies.
    1. `bundle install`
-   2. `yarn install`
+   2. `npm install`
 3. Run in development  mode.
-   1. `yarn develop`
+   1. `npm run develop`
    2. Browse to `http://localhost:4000`.
 4. Build your site.
    1. Add pages, customize the default layout, etc. (see how `index.md` works)
 5. Deploy
-   1. Run `yarn build` to build a production version of the site to the `_site` directory.
+   1. Run `npm build` to build a production version of the site to the `_site` directory.
    2. The included `netlify.toml` file makes it easy to [deploy to netlify](https://docs.netlify.com/site-deploys/overview/).
 
 ## What you get with the template

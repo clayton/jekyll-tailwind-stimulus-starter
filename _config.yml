@@ -9,6 +9,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -26,7 +28,7 @@ exclude:
   - postcss.config.js
   - webpack.config.js
   - package.json
-  - yarn.lock
+  - pacakge-lock.json
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/

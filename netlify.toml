@@ -1,3 +1,3 @@
 [build]
-  command = "JEKYLL_ENV=production yarn build"
+  command = "JEKYLL_ENV=production npm build"
   publish = "_site/"
